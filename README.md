@@ -11,12 +11,18 @@
 
 Os dados ficticíos estão em um arquivo JSON chamado `products.json` e podem ser visualizados em `storage/app/products.json`.
 
+Clone o repositório:
+```
+git clone https://github.com/JeanCSF/teste_backend_innovation.git
+```
+
+
 **OBS**: Antes de executar o aplicativo, certifique-se de que o Docker está instalado e configurado corretamente.
 
 Para executar o aplicativo, execute o seguinte comando no terminal:
 
 ```
-bash docker-compose up --build -d
+docker-compose up --build -d
 ```
 O aplicativo será executado em http://localhost:8000.
 
