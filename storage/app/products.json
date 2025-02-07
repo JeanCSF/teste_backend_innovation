@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "name": "Caneta Personalizada",
+        "price": 5.00
+    },
+    {
+        "id": 2,
+        "name": "Chaveiro Exclusivo",
+        "price": 3.50
+    },
+    {
+        "id": 3,
+        "name": "Copo Térmico",
+        "price": 25.99
+    },
+    {
+        "id": 4,
+        "name": "Bloco de Notas",
+        "price": 10.00
+    },
+    {
+        "id": 5,
+        "name": "Ecobag Sustentável",
+        "price": 15.00
+    },
+    {
+        "id": 6,
+        "name": "Mouse Pad",
+        "price": 18.00
+    },
+    {
+        "id": 7,
+        "name": "Squeeze Personalizada",
+        "price": 20.00
+    },
+    {
+        "id": 8,
+        "name": "Caderneta de Anotações",
+        "price": 12.00
+    },
+    {
+        "id": 9,
+        "name": "Porta-Cartões",
+        "price": 8.00
+    },
+    {
+        "id": 10,
+        "name": "Carregador Portátil",
+        "price": 1150.00
+    }
+]
